@@ -79,6 +79,15 @@
   - disappointed
   - gif
   - yoda
+- title: owl-coffee.gif
+  category: disappointed
+  path: disappointed/owl-coffee.gif
+  modified_time: 1586966401
+  tags:
+  - coffee
+  - disappointed
+  - gif
+  - owl
 - title: bunk-disappoint.gif
   category: disappointed
   path: disappointed/bunk-disappoint.gif
@@ -18114,6 +18123,19 @@
   - memes
   - people
   - png
+- title: jordan-face-2.png
+  category: custom-people-memes
+  path: custom-people-memes/Jordan/jordan-face-2.png
+  modified_time: 1586891191
+  tags:
+  - '2'
+  - Jordan
+  - custom
+  - face
+  - jordan
+  - memes
+  - people
+  - png
 - title: sub-zero-dche.png
   category: custom-people-memes
   path: custom-people-memes/Jordan/sub-zero-dche.png
@@ -18782,6 +18804,17 @@
   - can
   - gif
   - kick
+  - trash
+- title: trash-everything-monday-morning.gif
+  category: angry
+  path: angry/trash-everything-monday-morning.gif
+  modified_time: 1563088328
+  tags:
+  - angry
+  - everything
+  - gif
+  - monday
+  - morning
   - trash
 - title: bw-whatever.gif
   category: whatever
@@ -19468,6 +19501,16 @@
   - coming
   - gif
   - to
+  - waiting
+- title: owl-coffee-angry.gif
+  category: waiting
+  path: waiting/owl-coffee-angry.gif
+  modified_time: 1506653434
+  tags:
+  - angry
+  - coffee
+  - gif
+  - owl
   - waiting
 - title: picard-slow-clap.gif
   category: clap
@@ -22128,6 +22171,16 @@
   - gif
   - not
   - squirrel
+- title: owl-coffee-unamused.gif
+  category: disgust
+  path: disgust/owl-coffee-unamused.gif
+  modified_time: 1586966424
+  tags:
+  - coffee
+  - disgust
+  - gif
+  - owl
+  - unamused
 - title: whiskey-pour.gif
   category: cinemagraphs
   path: cinemagraphs/whiskey-pour.gif
