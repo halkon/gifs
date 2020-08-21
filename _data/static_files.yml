@@ -11240,6 +11240,15 @@
   - fire
   - gif
   - party
+- title: cocaine-pigs.gif
+  category: party
+  path: party/cocaine-pigs.gif
+  modified_time: 1563042542
+  tags:
+  - cocaine
+  - gif
+  - party
+  - pigs
 - title: lincoln-boombox.gif
   category: party
   path: party/lincoln-boombox.gif
@@ -11248,6 +11257,15 @@
   - boombox
   - gif
   - lincoln
+  - party
+- title: cocaine-dive.gif
+  category: party
+  path: party/cocaine-dive.gif
+  modified_time: 1507162907
+  tags:
+  - cocaine
+  - dive
+  - gif
   - party
 - title: awkward-light-switch-party-cyanide.gif
   category: party
@@ -11260,6 +11278,16 @@
   - light
   - party
   - switch
+- title: cocaine-mound-desk.gif
+  category: party
+  path: party/cocaine-mound-desk.gif
+  modified_time: 1565582634
+  tags:
+  - cocaine
+  - desk
+  - gif
+  - mound
+  - party
 - title: i-see-what-you-did-there.gif
   category: why-you
   path: why-you/i-see-what-you-did-there.gif
